@@ -1,0 +1,75 @@
+{
+    "contacts": [{
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    },
+    {
+      "id": 1,
+      "name": "Almaz Sharipov",
+      "gender": "man",
+      "mobile": 88005553535,
+      "email": "test@mail.ru",
+      "company": "Example Company"
+    }
+  ]
+}

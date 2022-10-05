@@ -1,0 +1,15 @@
+<div class="flex flex-col items-center p-3 rounded-md bg-white w-">
+    <header class="text-xl font-extrabold text-fuchsia-900 mb-4">{{ contact.name }}</header>
+    <div class="rounded-full bg-black w-40 h-40"></div>
+    <main class="mt-4 flex flex-col break-all text-sm w-full items-center">
+        <div class="w-full flex justify-center" *ngFor="let contantField of contact | keyvalue">
+            <span class="text-slate-400 w-1/4">{{contantField.key}}</span>
+            <span class="w-3/5 text-right">{{contantField.value}}</span>
+        </div>
+    </main>
+    <footer class="flex justify-around mt-4 w-full">
+        <button appButton><mat-icon>{{ buttonTypes.edit }}</mat-icon></button>
+        <button appButton><mat-icon>{{ buttonTypes.delete }}</mat-icon></button>
+        <button appButton><mat-icon>{{ buttonTypes.visibility}}</mat-icon></button>
+    </footer>
+</div>
